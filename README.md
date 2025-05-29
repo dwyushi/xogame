@@ -1,5 +1,5 @@
 # XOGame
-![XOGame Logo](xogame/assets/imgs/XOGame_logo.png)>
+![XOGame Logo](assets/imgs/XOGame_logo.png)>
 
 XOGame is a **twisted take on the classic Tic-Tac-Toe** game, developed using [Flutter](https://flutter.dev). While it builds on the traditional 3x3 grid gameplay, XOGame introduces unique twists to challenge your strategy and keep the game fresh!
 
