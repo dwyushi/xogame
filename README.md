@@ -11,7 +11,6 @@ XOGame is a **twisted take on the classic Tic-Tac-Toe** game, developed using [F
 - 🎨 Modern and responsive UI using Flutter
 - 👥 Local two-player support
 - 🔄 Dynamic twists that alter traditional gameplay
-- 📱 Cross-platform (iOS, Android, Web, Desktop)
 
 ## 🚀 Getting Started
 
